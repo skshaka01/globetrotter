@@ -22,7 +22,7 @@ Globetrotter Challenge is designed to provide a fun, engaging, and secure gaming
   - **ClearDB/Railway MySQL:** Free database hosting solution.
 
 - **Frontend:**
-  - **React:** Creates a dynamic, single-page application (SPA) for a responsive user experience.
+  - **React:** Creates a dynamic, single-page application for a responsive user experience.
   - **Material-UI:** Provides pre-built UI components and consistent styling.
   - **Axios:** Handles API requests from the frontend to the backend.
   - **Netlify:** Free hosting for static sites, ideal for deploying React apps.
